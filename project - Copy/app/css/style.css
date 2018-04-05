@@ -1,0 +1,88 @@
+header {height: 150px;
+	background-color: #008080;
+    color: white;
+}
+.logo {
+	padding-top: 20px;
+}	
+.logo .logo_txt {
+	display: inline-block;
+}
+
+.navbar {
+	display: flex;
+	flex-direction: : row;
+	justify-content: flex-end;
+
+}
+.navbar {
+	padding: 10px;
+	list-style: none;
+}
+
+
+.navbar li {
+	border: 1px;
+	font-size:16px;
+	padding: 10px 10px 0px 10px;
+  cursor: pointer;
+  margin-left:10px;
+}
+.navbar li:hover{
+  color: rgba(85,172,238 ,1);
+}
+
+.carousel-inner{
+	height: 250px;
+	width: 100%;
+}
+
+.description {
+	display: inline-block;
+}
+
+nav.shrink{
+	background-color:rbg();
+	height:60px;
+	padding-top:0px;
+}
+
+nav.shrink.navbar-logo{
+	font-size:20px;
+	padding:30px 0px 0px 80px;
+	color:black;
+}
+
+nav.shrink>li>a{
+	color:black;
+	font-size:16px;
+	font-family:@heading-text;
+	padding-top:30px;
+}
+
+label{
+	
+	font-stretch:condensed;
+	font-weight:normal;
+	font-size:18px;
+}
+
+div > #student > a{
+	font-size:20px;
+	text-decoration:none;
+}
+/*
+
+div > #student > a:hover{
+	background-color:#888888;
+	color:#FFFFFF;
+}
+div > #company > a:hover{
+	background-color:#888888;
+	color:#FFFFFF;	
+}
+*/
+div > #company > a{
+	font-size:20px;
+	text-decoration:none;
+}

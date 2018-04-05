@@ -1,0 +1,11 @@
+var user = { _id: 5ac40c7cd465f70ee494d2a4,
+  username: 'Prince',
+  email: 'yadavsunil9699@gmail.com',
+  mobile: 9594548387,
+  password: 'Sunil',
+  Address: 'Poisar',
+  prcentage_of_SSC: 90,
+  percentage_of_HSC: 67,
+  percentage_of_BE: 65,
+  skill: 'javascript',
+  __v: 0 }
